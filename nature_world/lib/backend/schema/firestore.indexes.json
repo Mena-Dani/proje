@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "ongs",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "favoritos",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "nombre",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "subcategoria",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Categoria",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "nombre",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

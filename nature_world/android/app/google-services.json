@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "695771565115",
+    "project_id": "pnatureworld-5a8fe",
+    "storage_bucket": "pnatureworld-5a8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695771565115:android:89e63b67177f4b3a2da01e",
+        "android_client_info": {
+          "package_name": "com.danielMena.pnatureworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695771565115-e3t981rvca0fescuqdl4jh3uc6g3r4iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danielMena.pnatureworld",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "695771565115-vvbdaih8efuusf2j2r4oqej3h8ptjpk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.danielMena.pnatureworld",
+            "certificate_hash": "9af7cd183a97aaec60449a0750ea3065ebb1724c"
+          }
+        },
+        {
+          "client_id": "695771565115-aoeb4l6jikt30abh4nh3gn729u6sqq7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP9XnrdHGlhCG0eqttzjpAV7WGT4U4gUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695771565115-aoeb4l6jikt30abh4nh3gn729u6sqq7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "695771565115-sc9f30niaiehgb3v7gd0f3ta6ve6c72t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielMena.pnatureworld"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
